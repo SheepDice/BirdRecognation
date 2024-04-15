@@ -1,0 +1,23 @@
+Fait
+[X] Fusionner les dossiers par classe                             Armand
+[X] Supprimer la classe pourrie                                   Armand
+[X] Diviser en trois sets corrects                               Armand 
+[X] Supprimer le fond des oiseaux                                 Maxence
+[X] Histogramme des couleurs                                      Yoni
+[X] Faire une todo stylé (revue à la baisse)                      Armand
+[X] Correspondance entre les echantillons des classes             Gregory
+[X] Vérifier les 15% après train_test_valid_split                   Armand
+[X] Ecriture du rapport                                           Tous
+[X] Oversampling/undersampling                                       Armand
+
+A faire
+[] Création du DF des couleurs                                      Maxence
+[] Model Ml sur les couleurs                                        Maxence
+[] Model Deeplearning sur les images                                Surement Armand pour commencer
+
+
+
+
+A faire plus tard
+[] Automatiser suppression de classe inexploitable 
+[] Approche pytorch

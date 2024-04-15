@@ -1,7 +1,7 @@
 # BirdRecognation
 
 ## Disclaimer
-Rhis project is a copy of a training project made for a datascientist training led by Datascientest (datascintest.com)
+This project is a copy of a training project made for a datascientist training led by Datascientest (datascintest.com)
 The project as been realised by four students (Gregory PECHIN, Maxence REMI-HAROCHE, Yoni EDERY and myself, Armand BENOIT)
 My current goal is to clean this project by deleting useless files, correcting codes and improving streamlit.
 

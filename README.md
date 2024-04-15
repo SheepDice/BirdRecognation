@@ -1,9 +1,11 @@
-#BirdRecognation
+# BirdRecognation
 
-Disclaimer : this project is a copy of a training project made for a datascientist training led by Datascientest (datascintest.com)
+## Disclaimer
+Rhis project is a copy of a training project made for a datascientist training led by Datascientest (datascintest.com)
 The project as been realised by four students (Gregory PECHIN, Maxence REMI-HAROCHE, Yoni EDERY and myself, Armand BENOIT)
 My current goal is to clean this project by deleting useless files, correcting codes and improving streamlit.
 
+## Project
 This project is inspired by a dataset provided on kaggle.com. You can download the dataset at the following link:
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species/discussion
 
